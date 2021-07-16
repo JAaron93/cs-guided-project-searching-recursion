@@ -26,4 +26,5 @@ containsTypo(4) -> True
 """
 def firstDraftWithTypo(n):
     # Your code here
+    
 
