@@ -80,5 +80,3 @@ def find_rotation_point(surnames):
 surnames = ['liu', 'mcdowell', 'nixon', 'sparks', 'zhang',
             'ahmed', 'brandt', 'davenport', 'farley', 'glover', 'kennedy']
 print(find_rotation_point(surnames))
-surnames = []
-print(find_rotation_point(surnames))

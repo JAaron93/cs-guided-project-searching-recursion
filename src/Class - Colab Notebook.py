@@ -21,6 +21,8 @@ print(linear_search(a, 2))
 
 
 def binary_search(lst, target):
+    # Need -1 because loops we'll perform later begin with 0 while the length of a the number
+    # doesn't begin with 0. See how it needs to be worked around?
     min = 0
     max = len(lst) - 1
 
